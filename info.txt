@@ -1,0 +1,5 @@
+to make a virutal env
+    python -m venv venv
+
+to run virtual env on windows
+    venv/Scripts/activate
